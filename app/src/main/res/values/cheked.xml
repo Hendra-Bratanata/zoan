@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="chk" parent="Theme.Design.NoActionBar">
+        <item name="colorControlActivated">#4CFF00</item>
+        <item name="colorSwitchThumbNormal">#FF0000</item>
+        <item name="android:colorForeground">@color/teal_200</item>
+    </style>
+</resources>
